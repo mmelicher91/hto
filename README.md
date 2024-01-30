@@ -10,3 +10,5 @@ Použité technologie:
 
 # Spuštění
 docker-compose up
+
+# ST96143
