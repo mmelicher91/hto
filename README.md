@@ -8,3 +8,5 @@ Použité technologie:
 - MongoDB
 - Docker
 
+# Spuštění
+docker-compose up
